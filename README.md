@@ -1,2 +1,2 @@
-# [Hi](serialfuzzer/README.md)
+# [Hi](/README.md)
 
