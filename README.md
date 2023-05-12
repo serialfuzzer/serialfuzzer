@@ -1,3 +1,1 @@
-# [Hi](/README.md)
-
-[I write JavaScript](image url "js.jpg")
+![I write javascript](/js.jpg)
