@@ -1,5 +1,4 @@
-Hi, 
-Number of times people have viewed this profile + executed one of the `Project AngulerJS` script. **Note: This does not depict accurate metrics of script execution by any means. Comprehensive data will be collected and published some time later.**:          
+      
   [![HitCount](https://hits.dwyl.com/serialfuzzer/serialfuzzer.svg?style=flat-square)](http://hits.dwyl.com/serialfuzzer/serialfuzzer)
 
 
