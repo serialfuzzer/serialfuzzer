@@ -1,4 +1,8 @@
-I hope you're having a good day! I hack for good and write code sometimes. You can connect with me by opening an issue in one of my repositories. I'm only working on defensive projects now -- offensive projects will be personal/private and explicitly limited to bug bounty programs and might be opensourced at some point. But, only when defenses get ready! Other than that check the hit count below, it's number of times people typo-ed and executed a non-intended package in their system. The counter might not increase anymore because I had to stop it. The project was causing issues for other overlapping projects that were initiated for good of people by concerned authorities.   
+Hello! I hope you're having a great day. I'm an ethical hacker who also dabbles in coding. If you wish to connect with me, feel free to open an issue in one of my repositories.
+
+Currently, I'm focusing on defensive projects. While I do engage in offensive projects, they are kept private and strictly limited to bug bounty programs. I may consider open-sourcing them in the future, but only when I'm confident about the available defenses.
+
+Lastly, take note of the hit count below. It represents the number of times people mistakenly executed a non-intended package on their system due to typos. However, this counter might not see much activity going forward. The project unintentionally caused issues for other projects aimed at public good.
 
   [![HitCount](https://hits.dwyl.com/serialfuzzer/serialfuzzer.svg?style=flat-square)](http://hits.dwyl.com/serialfuzzer/serialfuzzer)
 
