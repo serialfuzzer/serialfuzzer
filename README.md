@@ -1,7 +1,3 @@
-**Our pursuit of security might be making us more vulnerable**
-
-**Blocking the sun will also block the light**
-
 
 Hello! I hope you're having a great day. I'm an ethical hacker who also dabbles in coding. If you wish to connect with me, feel free to open an issue in one of my repositories.
 
