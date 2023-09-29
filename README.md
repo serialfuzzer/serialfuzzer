@@ -1,5 +1,8 @@
 **Our pursuit of security might be making us more vulnerable**
 
+**Blocking the sun will also block the light**
+
+
 Hello! I hope you're having a great day. I'm an ethical hacker who also dabbles in coding. If you wish to connect with me, feel free to open an issue in one of my repositories.
 
 Currently, I'm focusing on defensive projects. While I do engage in offensive projects, they are kept private and strictly limited to bug bounty programs. I may consider open-sourcing them in the future, but only when I'm confident about the available defenses.
