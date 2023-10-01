@@ -1,6 +1,10 @@
 
 Hello! I hope you're having a great day. I'm an ethical hacker who also dabbles in coding. If you wish to connect with me, feel free to open an issue in one of my repositories.
 
+Current/Long-Term Goals:
+1. Submit more vulnerabilities on a weekly basis
+2. Do more research that will have a positive impact
+
 [![HitCount](https://hits.dwyl.com/serialfuzzer/serialfuzzer.svg?style=flat-square)](http://hits.dwyl.com/serialfuzzer/serialfuzzer)
 
 
