@@ -10,7 +10,7 @@ by others long after you move on to other projects. Thus, programming is not as
 much about communicating to a computer as it is communicating to those who
 come after you. A programmer is a problem-solver, a poet, and an instructor all at
 once. Your goal is to solve the problem at hand, doing so with balance and taste,
-and teach your solution to future programmers.""
+and teach your solution to future programmers."
 ```
 
 
