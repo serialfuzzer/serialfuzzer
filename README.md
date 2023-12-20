@@ -2,11 +2,11 @@ Hi, I hope you're having a great day!
 
 
 ```
-movl %ideas, %github.com/serialfuzzer
-movl %vulnerabilities, %hackerone.com
-movl $1, %eax
-movl $0, %ebx
-int $0x80
+movl %ideas, %github.com/serialfuzzer # move all the ideas to github
+movl %vulnerabilities, %hackerone.com # report all vulnerabilities to Hackerone
+movl $1, %eax # system call code for exit
+movl $0, %ebx # return status code, $0 means successful execution
+int $0x80 # invoke the system to do the magic
 ```
 
 
